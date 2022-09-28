@@ -1,0 +1,15 @@
+D:\MyContolWorks\bin\Debug\net6.0\MyContolWorks.exe
+D:\MyContolWorks\bin\Debug\net6.0\MyContolWorks.deps.json
+D:\MyContolWorks\bin\Debug\net6.0\MyContolWorks.runtimeconfig.json
+D:\MyContolWorks\bin\Debug\net6.0\MyContolWorks.dll
+D:\MyContolWorks\bin\Debug\net6.0\MyContolWorks.pdb
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.csproj.AssemblyReference.cache
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.AssemblyInfoInputs.cache
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.AssemblyInfo.cs
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.csproj.CoreCompileInputs.cache
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.dll
+D:\MyContolWorks\obj\Debug\net6.0\refint\MyContolWorks.dll
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.pdb
+D:\MyContolWorks\obj\Debug\net6.0\MyContolWorks.genruntimeconfig.cache
+D:\MyContolWorks\obj\Debug\net6.0\ref\MyContolWorks.dll
